@@ -55,6 +55,6 @@ I am thrilled to share the exciting news that I have successfully completed the 
 ## Contact 
 
 [Linkedin](https://www.linkedin.com/in/amarachi-crystal-omereife-416a081a1/)
-[Twitter/X](https://twitter.com/marameref))
+[Twitter/X](https://twitter.com/marameref)
 [Email](Mirrorprojectsltd@gmail.com)
 
