@@ -1,16 +1,16 @@
-# Data Scientist
+# Devops Engineer || Machine Learning Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS, CICD, Serverless, OS (Windows, Linux) Automation, Scripting, git, gitOps etc
 
-## Education
+## Education & Certifications
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Cloud Engineer	| Microsoft azure Certified Cloud Developer (_October 2023_)	 			        		
+- B.Eng., Chemical engineering | Federal University of University Owerri (_Dec 2017_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Machine Learning Operations Engineer (MLOPS) @ Tublian USA (_November 2023 - Present_)**
+- Created a CICD pipeline to automate builds, testing and deployment of code for the Tublian 8020 AI Copilot Aplication (https://www.tublian.com/8020)
+- Created a CICD pipeline to automatically extract data from redis to periodically update (every 7 days) and automate search function for the tublian application ([www.tublian.com](https://www.tublian.com))
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
