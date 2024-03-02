@@ -22,7 +22,7 @@
 
 Creating a CI/CD pipeline can streamline the development process and automate key tasks like Docker image creation and deployment to AWS ECS. In this article, I will walk you through the process I used to setup a beginner-friendly CI/CD pipeline for a Tublian Co-Pilot repository using GitHub Actions..
 
-![Tublian CICD](/assets/img/tublian_cicd)
+![Tublian CICD](/assets/img/tublian_cicd.png)
 
 ### Azure Functions: A Beginner’s Guide to Serverless Computing with Visual Studio Code
 [Publication]([https://www.mdpi.com/1424-8220/22/11/4240](https://medium.com/@marameref/azure-functions-a-beginners-guide-to-serverless-computing-with-visual-studio-code-cdd60ff02965)
@@ -46,11 +46,8 @@ I am thrilled to share the exciting news that I have successfully completed the 
 ![My_ALX_CERT](/assets/img/alx_cert.jpeg)
 
 ## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Powershell: The power of automation - SCA Technology Seminar Abuja  November 2020
+- Guest Lecture: Architecting Software Engineering with Artificial Intelligence - The Tech-Women's Conference Lagos 2022
+- Co-Host (Lecture): Creating reusable Machine Learning models for Softwares - Nile University Abuja, August 2022
 
 - [My_Devops/ML_Blog](https://medium.com/@marameref)
