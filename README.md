@@ -51,3 +51,10 @@ I am thrilled to share the exciting news that I have successfully completed the 
 - Co-Host (Lecture): Creating reusable Machine Learning models for Softwares - Nile University Abuja, August 2022
 
 - [My_Devops/ML_Blog](https://medium.com/@marameref)
+
+## Contact 
+
+![Linkedin](https://www.linkedin.com/in/amarachi-crystal-omereife-416a081a1/)
+![Twitter/X](https://twitter.com/marameref))
+![Email](Mirrorprojectsltd@gmail.com)
+
