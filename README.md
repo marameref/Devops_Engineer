@@ -29,14 +29,14 @@ Creating a CI/CD pipeline can streamline the development process and automate ke
 
 Azure Functions, a powerful serverless computing service provided by Microsoft Azure, offers an ideal solution for building and running applications in the cloud. This beginner-friendly guide will walk you through what Azure Functions is, its applications, and why it may be a preferred choice over Azure Apps. Furthermore, we will provide a step-by-step process for creating Azure Functions (using Visual Studio Code), deploying them to the Azure cloud, as well as how to troubleshoot and resolve top 5 most common issues cloud developers often encounter in this process.
 
-![Azure Functions](/assets/img/azure_fxns.jpeg)
+![Azure Functions](/assets/img/azure_fxns.png)
 
 ### Navigating the World of CI with GitHub Actions
 [Publication](https://medium.com/@marameref/my-second-week-at-tublian-internship-navigating-the-world-of-ci-with-github-actions-22571644a0f9)
 
 The Unicorn Engine repository maintainers had a specific request: to create a CI workflow that would automatically attach builds to releases. This request was my introduction to GitHub Actions. While I had read about it in the past, I had never delved into it. To say that I had “cold feet” is an understatement; I was diving headfirst into uncharted territory.
 
-![Azure Functions](/assets/img/unicorn-project.jpeg)
+![Azure Functions](/assets/img/unicorn-project.png)
 
 ### Graduating as the Best from ALX Software Engineering Program Cohort 9: A Journey of Triumph and Reward
 [Publication](https://medium.com/@marameref/graduating-as-the-best-from-alx-software-engineering-program-cohort-9-a-journey-of-triumph-and-cd07cfb4d880)
