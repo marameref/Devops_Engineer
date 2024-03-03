@@ -43,7 +43,7 @@ The Unicorn Engine repository maintainers had a specific request: to create a CI
 
 I am thrilled to share the exciting news that I have successfully completed the 14-month intensive ALX Software Engineering Program, specializing in backend development. This program has been a transformative journey, and I am honored to have emerged as the best student among the 60,000 individuals enrolled in ALX SE Cohort 9.
 
-![My_ALX_CERT](/assets/img/alx_cert.jpeg)
+![My_ALX_CERT](/assets/img/alx_cert.png)
 
 ## Talks & Lectures
 - Powershell: The power of automation - SCA Technology Seminar Abuja  November 2020
