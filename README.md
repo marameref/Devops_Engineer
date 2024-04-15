@@ -1,11 +1,23 @@
-# Devops Engineer || Machine Learning Engineer
+# Devops Engineer ||Technical Writer || Machine Learning Engineer
 
 #### Technical Skills: Python, SQL, AWS, CICD, Serverless, OS (Windows, Linux) Automation, Scripting, Containerisation, version Control etc
 
 ## Education & Certifications
 - Certified Software Engineer (Backend) | ALX Software Engineering Program (_September 2023_)								       		
 - Cloud Engineer	| Microsoft azure Certified Cloud Developer (_October 2023_)	 			        		
-- B.Eng., Chemical engineering | Federal University of University Owerri (_Dec 2017_)
+- B.Eng. Chemical engineering | Federal University of University Owerri (_Dec 2014_)
+
+## Technical Writing Skills
+
+- User manuals.
+- Developer guides.
+- Integration guides.
+- How to guides
+- Troubleshooting guides.
+- Installation guides.
+- Source code documentation.
+- API documentation
+
 
 ## Work Experience
 **Machine Learning Operations Engineer (MLOPS) @ Tublian USA (_November 2023 - Present_)**
