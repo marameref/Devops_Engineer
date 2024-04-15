@@ -9,6 +9,9 @@
 
 ## Technical Writing Skills
 
+As an organized, focused, proactive, creative, and detail-oriented individual, I have a proven record of meeting deadlines and maintaining the communication chain to ensure that projects run smoothly. 
+I have written and edited numerous technical documents, including:
+
 - User manuals.
 - Developer guides.
 - Integration guides.
@@ -18,11 +21,15 @@
 - Source code documentation.
 - API documentation
 
+In addition, I believe in my varied skills in designing doc sites using (Mkdocs, Markdown, Docsify, Readme, Gitbook, Atlassian Confluence, Open API Spec and  Asciidoc) and experience in open source technical writing / Software development would make me a great fit for this position.
+
+I have worked as a documentation developer contracted to plan, develop, and design software documentations from scratch using Eleventy, Javascript, Python, Rapidoc, and Algolia search. I focused primarily on document changes to ensure the electronic documentation was edited to reflect each software update. In addition, I coordinated projects with the executive team to ensure every task was completed and meetings went smoothly. As a result, I improved the turnaround time by an average of 5 working days for each update.
+
 
 ## Work Experience
 **Machine Learning Operations Engineer (MLOPS) @ Tublian USA (_November 2023 - Present_)**
-- Created a CICD pipeline to automate builds, testing and deployment of code for the Tublian 8020 AI Copilot Aplication (https://www.tublian.com/8020)
-- Created a CICD pipeline to automatically extract data from redis to periodically update (every 7 days) and automate search function for the tublian application ([www.tublian.com](https://www.tublian.com))
+- Created, documented and managed a CICD pipeline to automate builds, testing and deployment of code for the Tublian 8020 AI Copilot Aplication (https://www.tublian.com/8020)
+- Created, documented and managed a CICD pipeline to automatically extract data from redis to periodically update (every 7 days) and automate search function for the tublian application ([www.tublian.com](https://www.tublian.com))
 
 **Devops Engineer @ Hasob Intergrated Services Limited (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
